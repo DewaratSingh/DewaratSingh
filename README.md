@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DewaratSingh
+- 👋 Hi, I’m <hr>@DewaratSingh
 - 👀 I’m interested in coading
 - 🌱 I’m currently learning backend with javascript 
 - 💞️ I’m looking to collaborate on ...
