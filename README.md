@@ -1,26 +1,30 @@
-# 💫 About Me:
-Hi, I'm Dewarat! 🚀<br><br>
-I'm a passionate full-stack developer and game creator. I love solving real-world problems with clean, scalable code and creating secure, real-time web applications and games.<br><br>
 
-💻 **What I Work On**:<br><br>
-- MERN Stack development (MongoDB, Express.js, React, Node.js)<br>
-- Full-stack web apps (JavaScript, Next.js, Tailwind CSS, Firebase)<br>
-- Real-time systems with Socket.IO (chat, video calling, presence tracking)<br>
-- Game development with p5.js and a custom mobile-first game engine<br>
-- Backend authentication (JWT, cookies, bcrypt)<br>
-- Currently learning C# and Unity for cross-platform games<br><br>
+# 💫 About Me
 
-🎯 **Current Focus**:<br><br>
-- Mastering backend and security practices (JWT, file upload, auth flows)<br>
-- Building secure, large-scale applications (chat app, HRMS, video meetings)<br>
-- Deep dive into MongoDB with Mongoose<br>
-- Exploring Unity & C# for advanced game development<br><br>
+Hi, I'm **Dewarat**! 🚀
+I'm a passionate **full-stack developer** and **game creator** who loves building real-time, scalable applications and creating smooth user experiences across web and mobile platforms.
 
-📚 **Education**:<br><br>
-Studying at **Mumbai University** (Lokmanya Tilak College)<br><br>
+---
 
-📫 **Let's Connect!**
+## 💻 What I Do
 
+* **MERN Stack Development** (MongoDB, Express.js, React, Node.js)
+* **Full-Stack Web Apps** using JavaScript, Next.js, Firebase, Tailwind CSS
+* **Mobile App Development with React Native & React Native CLI**
+* **Real-Time Systems** with Socket.IO (chat apps, video calling, live presence)
+* **Game Development** with p5.js and my own **custom mobile-first game engine**
+* **Backend Authentication** (JWT, cookies, bcrypt, secure auth flows)
+
+---
+
+## 📚 Education
+
+Studying at **Mumbai University
+Lokmanya Tilak College**
+
+---
+
+## 📫 Let's Connect!
 ---
 
 ## 🌐 Socials:
