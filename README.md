@@ -25,9 +25,7 @@ Lokmanya Tilak College**
 ---
 
 ## 📫 Let's Connect!
----
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewarat-singh-861bb9278)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pawansingh83751@gmail.com)
 
