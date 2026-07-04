@@ -1,32 +1,84 @@
+# 👋 Hi, I'm Dewarat Singh
 
-# 💫 About Me
+🚀 **Full-Stack Developer | Problem Solver | Real-Time Application Enthusiast**
 
-Hi, I'm **Dewarat**! 🚀
-I'm a passionate **software developer** who loves building real-time, scalable applications and creating smooth user experiences across web and mobile platforms.
-
----
-
-## 💻 What I Do
-
-* **MERN Stack Development** (MongoDB,SQL, Express.js, React, Node.js)
-* **Full-Stack Web Apps** using JavaScript, Next.js, Firebase, Tailwind CSS
-* **Mobile App Development with React Native & React Native CLI**
-* **Real-Time Systems** with Socket.IO (chat apps, video calling, live presence)
-* **Game Development** with p5.js and my own **custom mobile-first game engine**
-* **Backend Authentication** (JWT, cookies, bcrypt, secure auth flows)
+I'm a passionate software developer who enjoys building scalable applications, crafting intuitive user experiences, and exploring new technologies. From full-stack web development to real-time communication systems and game development, I love turning ideas into practical solutions.
 
 ---
 
-## 📚 Education
+## 💡 About Me
 
-Studying at **Mumbai University
-Lokmanya Tilak College**
+* 💻 Full-Stack Developer with a strong focus on modern JavaScript technologies
+* 🌐 Passionate about building fast, scalable, and secure web applications
+* 📱 Developing cross-platform mobile applications using React Native
+* ⚡ Experienced in real-time systems including chat, video calling, and live collaboration tools
+* 🎮 Game development enthusiast, currently building custom engines and interactive experiences
+* 📚 Continuously learning and exploring software architecture, system design, and emerging technologies
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React.js
+* Next.js
+* JavaScript (ES6+)
+* HTML5 & CSS3
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Socket.IO
+
+### Databases
+
+* MongoDB
+* SQL Databases
+* Firebase
+
+### Mobile Development
+
+* React Native
+* React Native CLI
+
+### Other Technologies
+
+* Git & GitHub
+* WebRTC
+* Supabase
+* Real-Time Communication Systems
 
 ---
 
-## 📫 Let's Connect!
+## 🚀 Areas of Interest
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dewarat-singh-861bb9278)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dewarat22@gmail.com)
+* Full-Stack Web Development
+* Real-Time Applications
+* Mobile App Development
+* System Design & Scalability
+* Game Development
+* Cloud & Backend Architecture
 
 ---
+
+## 🎓 Education
+
+**Mumbai University**
+Lokmanya Tilak College
+
+---
+
+## 📬 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/dewarat-singh-861bb9278
+
+📧 Email: [dewarat22@gmail.com](mailto:dewarat22@gmail.com)
+
+---
+
+⭐ I enjoy building projects that solve real-world problems, learning new technologies, and continuously improving as a developer.
